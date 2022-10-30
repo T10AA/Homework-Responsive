@@ -1,0 +1,57 @@
+/* header styling */
+.header {
+    background-color: black;   
+}
+.header-main {
+    background-image: url('../images/Group\ 72.jpg');
+    opacity: 60%;
+    color: white;
+    padding: 30px 138px 86px 139px;
+}
+.header-navigation-block {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Poppins';
+}
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    text-transform: uppercase;
+    font-size: 12px;
+     
+}
+.pages {
+    margin-right: 52px;
+}
+.header-navigation-block h3 {
+    font-size: 14px;
+}
+.about-block {
+    display: flex;
+    width: 173px;
+}
+.line {
+    width: 2px;
+    height: 19px;
+    background-color: white;
+    margin: 0 16.5px;
+}
+
+.about-block h2{
+    font-size: 42px;
+    margin-bottom: 18px;
+}
+.title {
+    font-size: 42px;
+    margin-top: 95px;
+    margin-bottom: 18px;
+    font-family: 'Poppins';
+}
+.contact-block-pages {
+    display: flex;
+}
+.contact-block-pages a {
+    font-size: 14px;
+    color: white;
+    font-family: 'Poppins';
+}
