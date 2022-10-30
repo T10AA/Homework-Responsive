@@ -328,13 +328,8 @@
     color: white;
     margin-left: 17px;
 }
-.copyright-block {
-    width: 100%;
-    height: 19px;
-    background-color: aquamarine;
+.text {
+    color: white;
+    display: block;
 }
-.second-box {
-    width: 100px;
-    margin-left: 200px;
-    margin-right: 94px;
-}
+
