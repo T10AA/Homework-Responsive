@@ -257,9 +257,11 @@
     max-width: 1366px;
     margin: 0 auto;
     background-color: black;
+    padding: 89px 221px 41px 139px;
+}
+.first-line {
     display: flex;
     justify-content: space-between;
-    padding: 89px 221px 41px 139px;
 }
 .first-box h2 {
     color: white;
@@ -330,6 +332,17 @@
 }
 .text {
     color: white;
-    display: block;
+    font-size: 14px;
+    margin-right: 5px;
 }
-
+.second-line {
+    margin-top: 54px;
+    display: flex;
+    align-items:flex-end;
+    font-family: 'Poppins';
+}
+.second-line a {
+    color: #5863F8;
+    font-size: 14px;
+    font-family: 'Poppins';
+}
